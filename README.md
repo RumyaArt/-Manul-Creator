@@ -2,7 +2,8 @@
 
 Короч основная идея довольно проста:
 
-Есть Манул редактор, который Мана сделала в виде PSD файла (я его добавил репозиторий в папке "Исходники". Зайди и посмотри PSD файл). 
+Есть Манул редактор, который Мана сделала в виде PSD файла (я его добавил репозиторий в папке 
+[Исходники](https://github.com/RumyaArt/-Manul-Creator/tree/main/%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8). Зайди и посмотри PSD файл). 
 
 Прикол в том, что включая или выключая слои, ты можешь, например, добавлять элементы одежды.
 
@@ -10,19 +11,20 @@
 
 Идея сайта точно такая же. Всё для удобство редактирования (в нашем случае заливки) разделено на слои (основной цвет, обводка и дополнительные элементы).
 
-В папке "Манул_Креатор_Layers" нахядся уже экспортированные с помощью python скрипта (psdtopng2.py) png файлы 
+В папке [Манул_Креатор_Layers](https://github.com/RumyaArt/-Manul-Creator/tree/main/%D0%9C%D0%B0%D0%BD%D1%83%D0%BB_%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%BE%D1%80_layers) 
+нахядся уже экспортированные с помощью python скрипта [psdtopng2.py](https://github.com/RumyaArt/-Manul-Creator/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B%20%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD/psdtopng2.py) png файлы 
 (их пути и названия для удобства тоже немного подредактированы с помощью другого python скрипта и немного вручную).
 
-В словаре data.json основной ветки находятся пути внутри "Манул_Креатор_Layers". Этот json тоже генерируется python скриптом (jsonPy2.py).
+В словаре [data.json](https://github.com/RumyaArt/-Manul-Creator/blob/main/data.json) основной ветки находятся пути внутри [Манул_Креатор_Layers](https://github.com/RumyaArt/-Manul-Creator/tree/main/%D0%9C%D0%B0%D0%BD%D1%83%D0%BB_%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%BE%D1%80_layers). Этот json тоже генерируется python скриптом [jsonPy2.py](https://github.com/RumyaArt/-Manul-Creator/blob/main/jsonPy2.py).
 
-В "index.html" находится разметка сайта.
+В [index.html](https://github.com/RumyaArt/-Manul-Creator/blob/main/index.html) находится разметка сайта.
 
-В "styles.css" CSS-стиль.
+В [styles.css](https://github.com/RumyaArt/-Manul-Creator/blob/main/styles.css) CSS-стиль.
 
-В "script.js", логично, скрипт сайта.
+В [script.js](https://github.com/RumyaArt/-Manul-Creator/blob/main/script.js), логично, скрипт сайта.
 
-"images" пустая папка и пока никак не используется.
+[images](https://github.com/RumyaArt/-Manul-Creator/tree/main/images) пустая папка и пока никак не используется.
 
-В "fonts" я собираюсь хранить шрифты. Мб чё поменяется.
+В [fonts](https://github.com/RumyaArt/-Manul-Creator/tree/main/fonts) я собираюсь хранить шрифты. Мб чё поменяется.
 
-В "пайтон скрипты" находятся пайтон скрипты.
+В [скрипты пайтон](https://github.com/RumyaArt/-Manul-Creator/tree/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D1%8B%20%D0%BF%D0%B0%D0%B9%D1%82%D0%BE%D0%BD) находятся скрипты пайтон.
