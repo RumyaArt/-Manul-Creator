@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'BDBHS'; 
+	src: url(fonts/BordersDivideButHeartsShall-Regular.ttf); 
+}
+
+.header
+{
+    text-align: center;
+}
+
+body 
+{
+    color:#002dff;
+    font: 20px BDBHS;
+    background-color:#00bfff;
+}
+
+#window
+{
+    display: block;
+    margin: 0 auto;
+}
