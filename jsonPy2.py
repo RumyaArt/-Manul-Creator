@@ -3,21 +3,35 @@ import json
 
 #Короч это скрипт который рекурсивно генерит json с путями пнгэх
 
-d = 'Манул_Креатор_layers'
+rootDir = 'ROOT'
 
-def buildStruct(directory, name):
+def getNode(directory):
+    node = {}
+    dlist = os.listdir(directory)
+    for d in dlist:
+        if os.path.isfile(os.path.join(directory, d)):
+            node[os.path.splitext(d)[0]] = os.path.join(directory, d)
+            print(node)
+    return node
+
+def buildStruct(directory):
     dir_list = os.listdir(directory)
-    m = []
+    NON = 1 #Number Of Nodes
+    m = {} 
     for dir in dir_list:
         if os.path.isfile(os.path.join(directory, dir)):
-            m.append(os.path.join(directory, dir))
+            m[dir] = os.path.join(directory, dir)
         else:
-            m.append(buildStruct(os.path.join(directory, dir), dir))
-    return {name : m}
+            if dir[0] == '_':
+                m[NON] = getNode(os.path.join(os.path.join(directory, dir)))
+                NON += 1
+            else:   
+                m[dir] = buildStruct(os.path.join(directory, dir))
+    return m
 
 
         
 with open("data.json", "w", encoding="utf-8") as f:
-    json.dump(buildStruct(d, d), f, indent=4, ensure_ascii=False)
+    json.dump(buildStruct(rootDir), f, indent=4, ensure_ascii=False)
 
 print('ok')
