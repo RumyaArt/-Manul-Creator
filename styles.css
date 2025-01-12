@@ -15,9 +15,53 @@ body
     background-color:#00bfff;
 }
 
-#window
+/*==================================================================================*/
+
+.Creator
 {
     display: block;
+    background-color: white;
+    width: 480px;
+    height: 480px;
     margin: 0 auto;
     border: 1px solid white;
 }
+
+.element
+{
+    position: relative;
+}
+
+#mbody      {z-index: 0}
+#mouth      {z-index: 1}
+#eyes-emo   {z-index: 2}
+#lingery    {z-index: 3}
+#mbottom    {z-index: 4}
+#mtop       {z-index: 5}
+#dress      {z-index: 6}
+#neck       {z-index: 7}
+#eyes-acc   {z-index: 8}
+#hairstyle  {z-index: 9}
+#hat        {z-index: 10}
+#right-hand {z-index: 11}
+#left-hand  {z-index: 12}
+
+
+/*==================================================================================*/
+
+.layer
+{
+    display: block;
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    border: 1px solid white;
+}
+
+.base   {z-index: 0}
+.add1   {z-index: 1}
+.add2   {z-index: 2}
+.add3   {z-index: 3}
+.add4   {z-index: 4}
+.add5   {z-index: 5}
+.stroke {z-index: 6}

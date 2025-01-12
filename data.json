@@ -1,10 +1,12 @@
 {
     "BODY": {
         "1": {
+            "name": "БЕЛЫЙ МЕХ",
             "base": "ROOT\\BODY\\_БЕЛЫЙ МЕХ\\base.png",
             "stroke": "ROOT\\BODY\\_БЕЛЫЙ МЕХ\\stroke.png"
         },
         "2": {
+            "name": "Тело",
             "1": "ROOT\\BODY\\_Тело\\1.png",
             "2": "ROOT\\BODY\\_Тело\\2.png",
             "3": "ROOT\\BODY\\_Тело\\3.png",
@@ -14,75 +16,92 @@
             "stroke": "ROOT\\BODY\\_Тело\\stroke.png"
         },
         "3": {
+            "name": "ЦВЕТНОЙ МЕХ",
             "base": "ROOT\\BODY\\_ЦВЕТНОЙ МЕХ\\base.png"
         },
         "4": {
+            "name": "ЧЕРНЫЙ МЕХ",
             "base": "ROOT\\BODY\\_ЧЕРНЫЙ МЕХ\\base.png",
             "stroke": "ROOT\\BODY\\_ЧЕРНЫЙ МЕХ\\stroke.png"
         }
     },
     "BOTH_HANDS": {
         "1": {
+            "name": "лист",
             "вставить текст _D": "ROOT\\BOTH_HANDS\\_лист\\вставить текст _D.png",
             "лист": "ROOT\\BOTH_HANDS\\_лист\\лист.png"
         },
         "2": {
+            "name": "сердечко",
             "base": "ROOT\\BOTH_HANDS\\_сердечко\\base.png"
         }
     },
     "BOTTOMS": {
         "1": {
+            "name": "брюки",
             "base": "ROOT\\BOTTOMS\\_брюки\\base.png",
             "stroke": "ROOT\\BOTTOMS\\_брюки\\stroke.png"
         },
         "2": {
+            "name": "джинсы",
             "1": "ROOT\\BOTTOMS\\_джинсы\\1.png",
             "base": "ROOT\\BOTTOMS\\_джинсы\\base.png",
             "stroke": "ROOT\\BOTTOMS\\_джинсы\\stroke.png"
         },
         "3": {
+            "name": "леггинсы",
             "base": "ROOT\\BOTTOMS\\_леггинсы\\base.png",
             "stroke": "ROOT\\BOTTOMS\\_леггинсы\\stroke.png"
         },
         "4": {
+            "name": "новогодние штаны",
             "base": "ROOT\\BOTTOMS\\_новогодние штаны\\base.png"
         },
         "5": {
+            "name": "спортивные штаны",
             "1": "ROOT\\BOTTOMS\\_спортивные штаны\\1.png",
             "base": "ROOT\\BOTTOMS\\_спортивные штаны\\base.png",
             "stroke": "ROOT\\BOTTOMS\\_спортивные штаны\\stroke.png"
         },
         "6": {
+            "name": "шорты",
             "base": "ROOT\\BOTTOMS\\_шорты\\base.png",
             "stroke": "ROOT\\BOTTOMS\\_шорты\\stroke.png"
         },
         "7": {
+            "name": "шорты с карманами",
             "base": "ROOT\\BOTTOMS\\_шорты с карманами\\base.png",
             "stroke": "ROOT\\BOTTOMS\\_шорты с карманами\\stroke.png"
         }
     },
     "DRESSES": {
         "1": {
+            "name": "горничная платье",
             "base": "ROOT\\DRESSES\\_горничная платье\\base.png"
         },
         "2": {
+            "name": "длинные носочки",
             "1": "ROOT\\DRESSES\\_длинные носочки\\1.png",
             "base": "ROOT\\DRESSES\\_длинные носочки\\base.png",
             "stroke": "ROOT\\DRESSES\\_длинные носочки\\stroke.png"
         },
         "3": {
+            "name": "комбинезон",
             "base": "ROOT\\DRESSES\\_комбинезон\\base.png",
             "stroke": "ROOT\\DRESSES\\_комбинезон\\stroke.png"
         },
         "4": {
+            "name": "платье",
             "base": "ROOT\\DRESSES\\_платье\\base.png",
             "stroke": "ROOT\\DRESSES\\_платье\\stroke.png"
         },
         "5": {
+            "name": "плащ",
             "base": "ROOT\\DRESSES\\_плащ\\base.png",
             "stroke": "ROOT\\DRESSES\\_плащ\\stroke.png"
         },
         "6": {
+            "name": "юбка",
             "1": "ROOT\\DRESSES\\_юбка\\1.png",
             "base": "ROOT\\DRESSES\\_юбка\\base.png",
             "stroke": "ROOT\\DRESSES\\_юбка\\stroke.png"
@@ -90,453 +109,593 @@
     },
     "EYES_ACCESSORIES": {
         "1": {
+            "name": "очки для зрения",
             "base": "ROOT\\EYES_ACCESSORIES\\_очки для зрения\\base.png"
         },
         "2": {
+            "name": "очки защитные",
             "base": "ROOT\\EYES_ACCESSORIES\\_очки защитные\\base.png"
         },
         "3": {
+            "name": "очки крутые",
             "base": "ROOT\\EYES_ACCESSORIES\\_очки крутые\\base.png"
         },
         "4": {
+            "name": "очки сердечки",
             "base": "ROOT\\EYES_ACCESSORIES\\_очки сердечки\\base.png"
         },
         "5": {
+            "name": "повязка на Л глаз",
             "base": "ROOT\\EYES_ACCESSORIES\\_повязка на Л глаз\\base.png"
         },
         "6": {
+            "name": "повязка на П глаз",
             "base": "ROOT\\EYES_ACCESSORIES\\_повязка на П глаз\\base.png"
         }
     },
     "EYES_EMOTIONS": {
         "1": {
+            "name": "глаза БАЗА",
             "base": "ROOT\\EYES_EMOTIONS\\_глаза БАЗА\\base.png"
         },
         "2": {
+            "name": "жалостливые",
             "base": "ROOT\\EYES_EMOTIONS\\_жалостливые\\base.png"
         },
         "3": {
+            "name": "задравшиеся",
             "base": "ROOT\\EYES_EMOTIONS\\_задравшиеся\\base.png"
         },
         "4": {
+            "name": "закрытые",
             "base": "ROOT\\EYES_EMOTIONS\\_закрытые\\base.png"
         },
         "5": {
+            "name": "закрытые счастливые",
             "base": "ROOT\\EYES_EMOTIONS\\_закрытые счастливые\\base.png"
         },
         "6": {
+            "name": "злые",
             "base": "ROOT\\EYES_EMOTIONS\\_злые\\base.png"
         },
         "7": {
+            "name": "курсед",
             "base": "ROOT\\EYES_EMOTIONS\\_курсед\\base.png"
         },
         "8": {
+            "name": "плаксивые",
             "base": "ROOT\\EYES_EMOTIONS\\_плаксивые\\base.png"
         },
         "9": {
+            "name": "подозрение",
             "base": "ROOT\\EYES_EMOTIONS\\_подозрение\\base.png"
         },
         "10": {
+            "name": "равнодушные",
             "base": "ROOT\\EYES_EMOTIONS\\_равнодушные\\base.png"
         },
         "11": {
+            "name": "раздраженные",
             "base": "ROOT\\EYES_EMOTIONS\\_раздраженные\\base.png"
         },
         "12": {
+            "name": "ржака без капель",
             "base": "ROOT\\EYES_EMOTIONS\\_ржака без капель\\base.png"
         },
         "13": {
+            "name": "ржака с каплями",
             "base": "ROOT\\EYES_EMOTIONS\\_ржака с каплями\\base.png"
         },
         "14": {
+            "name": "счастливые",
             "base": "ROOT\\EYES_EMOTIONS\\_счастливые\\base.png"
         }
     },
     "HAIRSTYLES": {
         "1": {
+            "name": "ежик",
             "base": "ROOT\\HAIRSTYLES\\_ежик\\base.png"
         },
         "2": {
+            "name": "кучерявые",
             "base": "ROOT\\HAIRSTYLES\\_кучерявые\\base.png"
         },
         "3": {
+            "name": "мана",
             "base": "ROOT\\HAIRSTYLES\\_мана\\base.png"
         },
         "4": {
+            "name": "мику",
             "base": "ROOT\\HAIRSTYLES\\_мику\\base.png"
         },
         "5": {
+            "name": "помпоны",
             "base": "ROOT\\HAIRSTYLES\\_помпоны\\base.png"
         },
         "6": {
+            "name": "прямая карешка",
             "base": "ROOT\\HAIRSTYLES\\_прямая карешка\\base.png"
         },
         "7": {
+            "name": "растрепанная челка",
             "base": "ROOT\\HAIRSTYLES\\_растрепанная челка\\base.png"
         },
         "8": {
+            "name": "хвостик",
             "base": "ROOT\\HAIRSTYLES\\_хвостик\\base.png"
         },
         "9": {
+            "name": "челка 2007",
             "base": "ROOT\\HAIRSTYLES\\_челка 2007\\base.png"
         },
         "10": {
+            "name": "челка закрученная",
             "base": "ROOT\\HAIRSTYLES\\_челка закрученная\\base.png"
         },
         "11": {
+            "name": "челка острая",
             "base": "ROOT\\HAIRSTYLES\\_челка острая\\base.png"
         }
     },
     "HATS": {
         "1": {
+            "name": "антенна",
             "base": "ROOT\\HATS\\_антенна\\base.png"
         },
         "2": {
+            "name": "бандана",
             "base": "ROOT\\HATS\\_бандана\\base.png"
         },
         "3": {
+            "name": "день рождения",
             "base": "ROOT\\HATS\\_день рождения\\base.png"
         },
         "4": {
+            "name": "кепка",
             "base": "ROOT\\HATS\\_кепка\\base.png"
         },
         "5": {
+            "name": "клоун",
             "base-DESKTOP-HL4UU2K": "ROOT\\HATS\\_клоун\\base-DESKTOP-HL4UU2K.png",
             "base": "ROOT\\HATS\\_клоун\\base.png"
         },
         "6": {
+            "name": "корона",
             "base-DESKTOP-HL4UU2K": "ROOT\\HATS\\_корона\\base-DESKTOP-HL4UU2K.png",
             "base": "ROOT\\HATS\\_корона\\base.png"
         },
         "7": {
+            "name": "мандарин",
             "base": "ROOT\\HATS\\_мандарин\\base.png"
         },
         "8": {
+            "name": "мануто повязка",
             "base": "ROOT\\HATS\\_мануто повязка\\base.png"
         },
         "9": {
+            "name": "медицинская",
             "base": "ROOT\\HATS\\_медицинская\\base.png"
         },
         "10": {
+            "name": "морская",
             "base": "ROOT\\HATS\\_морская\\base.png"
         },
         "11": {
+            "name": "наушники",
             "base": "ROOT\\HATS\\_наушники\\base.png"
         },
         "12": {
+            "name": "нимб",
             "base": "ROOT\\HATS\\_нимб\\base.png"
         },
         "13": {
+            "name": "новогодняя шапка",
             "base-DESKTOP-HL4UU2K": "ROOT\\HATS\\_новогодняя шапка\\base-DESKTOP-HL4UU2K.png",
             "base": "ROOT\\HATS\\_новогодняя шапка\\base.png"
         },
         "14": {
+            "name": "оленьи рожки",
             "base": "ROOT\\HATS\\_оленьи рожки\\base.png"
         },
         "15": {
+            "name": "пакет",
             "base": "ROOT\\HATS\\_пакет\\base.png"
         },
         "16": {
+            "name": "пиратская шляпа",
             "base-DESKTOP-HL4UU2K": "ROOT\\HATS\\_пиратская шляпа\\base-DESKTOP-HL4UU2K.png",
             "base": "ROOT\\HATS\\_пиратская шляпа\\base.png"
         },
         "17": {
+            "name": "поварской колпак",
             "base-DESKTOP-HL4UU2K": "ROOT\\HATS\\_поварской колпак\\base-DESKTOP-HL4UU2K.png",
             "base": "ROOT\\HATS\\_поварской колпак\\base.png"
         },
         "18": {
+            "name": "повязка",
             "base": "ROOT\\HATS\\_повязка\\base.png"
         },
         "19": {
+            "name": "противогаз",
             "base": "ROOT\\HATS\\_противогаз\\base.png"
         },
         "20": {
+            "name": "рожки",
             "base": "ROOT\\HATS\\_рожки\\base.png"
         },
         "21": {
+            "name": "росток",
             "base": "ROOT\\HATS\\_росток\\base.png"
         },
         "22": {
+            "name": "строительная каска",
             "base": "ROOT\\HATS\\_строительная каска\\base.png"
         },
         "23": {
+            "name": "хлеп",
             "base": "ROOT\\HATS\\_хлеп\\base.png"
         },
         "24": {
+            "name": "шапка",
             "base": "ROOT\\HATS\\_шапка\\base.png"
         },
         "25": {
+            "name": "шлем",
             "base": "ROOT\\HATS\\_шлем\\base.png"
         },
         "26": {
+            "name": "шляпа",
             "base": "ROOT\\HATS\\_шляпа\\base.png"
         },
         "27": {
+            "name": "шляпа волшебная",
             "base": "ROOT\\HATS\\_шляпа волшебная\\base.png"
         },
         "28": {
+            "name": "яишенка",
             "base": "ROOT\\HATS\\_яишенка\\base.png"
         }
     },
     "LEFT_HAND": {
         "1": {
+            "name": "акула",
             "base": "ROOT\\LEFT_HAND\\_акула\\base.png"
         },
         "2": {
+            "name": "бутылка",
             "base": "ROOT\\LEFT_HAND\\_бутылка\\base.png"
         },
         "3": {
+            "name": "дакимакура",
             "base": "ROOT\\LEFT_HAND\\_дакимакура\\base.png"
         },
         "4": {
+            "name": "книга",
             "base": "ROOT\\LEFT_HAND\\_книга\\base.png"
         },
         "5": {
+            "name": "контроллер",
             "base": "ROOT\\LEFT_HAND\\_контроллер\\base.png"
         },
         "6": {
+            "name": "пакетик",
             "base": "ROOT\\LEFT_HAND\\_пакетик\\base.png"
         },
         "7": {
+            "name": "приставка",
             "base": "ROOT\\LEFT_HAND\\_приставка\\base.png"
         },
         "8": {
+            "name": "хлеб",
             "base": "ROOT\\LEFT_HAND\\_хлеб\\base.png"
         }
     },
     "LINGERIES": {
         "1": {
+            "name": "белье 1",
             "base": "ROOT\\LINGERIES\\_белье 1\\base.png"
         },
         "2": {
+            "name": "белье 2",
             "base": "ROOT\\LINGERIES\\_белье 2\\base.png"
         },
         "3": {
+            "name": "яп_ купальник",
             "base": "ROOT\\LINGERIES\\_яп_ купальник\\base.png"
         }
     },
     "MOUTH": {
         "1": {
+            "name": "__",
             "base": "ROOT\\MOUTH\\___\\base.png"
         },
         "2": {
+            "name": "б е г и",
             "base": "ROOT\\MOUTH\\_б е г и\\base.png"
         },
         "3": {
+            "name": "БАЗА",
             "base": "ROOT\\MOUTH\\_БАЗА\\base.png"
         },
         "4": {
+            "name": "волистый пакость",
             "base": "ROOT\\MOUTH\\_волистый пакость\\base.png"
         },
         "5": {
+            "name": "волнистый грустный",
             "base": "ROOT\\MOUTH\\_волнистый грустный\\base.png"
         },
         "6": {
+            "name": "волнистый смутился",
             "base": "ROOT\\MOUTH\\_волнистый смутился\\base.png"
         },
         "7": {
+            "name": "гуль",
             "base": "ROOT\\MOUTH\\_гуль\\base.png"
         },
         "8": {
+            "name": "деньги",
             "base": "ROOT\\MOUTH\\_деньги\\base.png"
         },
         "9": {
+            "name": "дерзкая улыбка зубы",
             "base": "ROOT\\MOUTH\\_дерзкая улыбка зубы\\base.png"
         },
         "10": {
+            "name": "ему норм",
             "base": "ROOT\\MOUTH\\_ему норм\\base.png"
         },
         "11": {
+            "name": "клычки",
             "base": "ROOT\\MOUTH\\_клычки\\base.png"
         },
         "12": {
+            "name": "маненьки нипанимает",
             "base": "ROOT\\MOUTH\\_маненьки нипанимает\\base.png"
         },
         "13": {
+            "name": "маненьки ротик",
             "base": "ROOT\\MOUTH\\_маненьки ротик\\base.png"
         },
         "14": {
+            "name": "мда",
             "base": "ROOT\\MOUTH\\_мда\\base.png"
         },
         "15": {
+            "name": "на грани",
             "base": "ROOT\\MOUTH\\_на грани\\base.png"
         },
         "16": {
+            "name": "надутые щеки",
             "base": "ROOT\\MOUTH\\_надутые щеки\\base.png"
         },
         "17": {
+            "name": "оооч злой зубастый",
             "base": "ROOT\\MOUTH\\_оооч злой зубастый\\base.png"
         },
         "18": {
+            "name": "открытый доволенб",
             "base": "ROOT\\MOUTH\\_открытый доволенб\\base.png"
         },
         "19": {
+            "name": "открытый орет",
             "base": "ROOT\\MOUTH\\_открытый орет\\base.png"
         },
         "20": {
+            "name": "открытый радость",
             "base": "ROOT\\MOUTH\\_открытый радость\\base.png"
         },
         "21": {
+            "name": "отупел",
             "base": "ROOT\\MOUTH\\_отупел\\base.png"
         },
         "22": {
+            "name": "оч доволен",
             "base": "ROOT\\MOUTH\\_оч доволен\\base.png"
         },
         "23": {
+            "name": "печенька",
             "base": "ROOT\\MOUTH\\_печенька\\base.png"
         },
         "24": {
+            "name": "покер фейс",
             "base": "ROOT\\MOUTH\\_покер фейс\\base.png"
         },
         "25": {
+            "name": "пончик",
             "base": "ROOT\\MOUTH\\_пончик\\base.png"
         },
         "26": {
+            "name": "приоткрытый мдэээ",
             "base": "ROOT\\MOUTH\\_приоткрытый мдэээ\\base.png"
         },
         "27": {
+            "name": "рыбка",
             "base": "ROOT\\MOUTH\\_рыбка\\base.png"
         },
         "28": {
+            "name": "сижка",
             "base": "ROOT\\MOUTH\\_сижка\\base.png"
         },
         "29": {
+            "name": "сильно МДАА",
             "base": "ROOT\\MOUTH\\_сильно МДАА\\base.png"
         },
         "30": {
+            "name": "скукурузил недовольно",
             "base": "ROOT\\MOUTH\\_скукурузил недовольно\\base.png"
         },
         "31": {
+            "name": "стянул мордаху",
             "base": "ROOT\\MOUTH\\_стянул мордаху\\base.png"
         },
         "32": {
+            "name": "удивление маленбкое",
             "base": "ROOT\\MOUTH\\_удивление маленбкое\\base.png"
         },
         "33": {
+            "name": "удивление поболбше",
             "base": "ROOT\\MOUTH\\_удивление поболбше\\base.png"
         },
         "34": {
+            "name": "улыбка зубы",
             "base": "ROOT\\MOUTH\\_улыбка зубы\\base.png"
         },
         "35": {
+            "name": "ухмылка",
             "base": "ROOT\\MOUTH\\_ухмылка\\base.png"
         },
         "36": {
+            "name": "хехе",
             "base": "ROOT\\MOUTH\\_хехе\\base.png"
         },
         "37": {
+            "name": "хмпф обидевся",
             "base": "ROOT\\MOUTH\\_хмпф обидевся\\base.png"
         },
         "38": {
+            "name": "цветок",
             "base": "ROOT\\MOUTH\\_цветок\\base.png"
         },
         "39": {
+            "name": "чмок",
             "base": "ROOT\\MOUTH\\_чмок\\base.png"
         },
         "40": {
+            "name": "язык",
             "base": "ROOT\\MOUTH\\_язык\\base.png"
         }
     },
     "NECK": {
         "1": {
+            "name": "галстук",
             "base": "ROOT\\NECK\\_галстук\\base.png"
         },
         "2": {
+            "name": "наушники",
             "base": "ROOT\\NECK\\_наушники\\base.png"
         },
         "3": {
+            "name": "ошейник",
             "base": "ROOT\\NECK\\_ошейник\\base.png"
         },
         "4": {
+            "name": "ошейник с шипами",
             "base": "ROOT\\NECK\\_ошейник с шипами\\base.png"
         },
         "5": {
+            "name": "платок",
             "base": "ROOT\\NECK\\_платок\\base.png"
         },
         "6": {
+            "name": "шарф",
             "base": "ROOT\\NECK\\_шарф\\base.png"
         },
         "7": {
+            "name": "японский галстучек",
             "base": "ROOT\\NECK\\_японский галстучек\\base.png"
         }
     },
     "p.py": "ROOT\\p.py",
     "RIGHT_HAND": {
         "1": {
+            "name": "бургер",
             "base": "ROOT\\RIGHT_HAND\\_бургер\\base.png"
         },
         "2": {
+            "name": "волшебная палочка",
             "обводка - палочка": "ROOT\\RIGHT_HAND\\_волшебная палочка\\обводка - палочка.png",
             "цвет - палочка": "ROOT\\RIGHT_HAND\\_волшебная палочка\\цвет - палочка.png"
         },
         "3": {
+            "name": "карандаш",
             "base": "ROOT\\RIGHT_HAND\\_карандаш\\base.png"
         },
         "4": {
+            "name": "кирка майн",
             "base": "ROOT\\RIGHT_HAND\\_кирка майн\\base.png"
         },
         "5": {
+            "name": "ключ",
             "base": "ROOT\\RIGHT_HAND\\_ключ\\base.png"
         },
         "6": {
+            "name": "кружка",
             "base": "ROOT\\RIGHT_HAND\\_кружка\\base.png"
         },
         "7": {
+            "name": "лопатка",
             "base": "ROOT\\RIGHT_HAND\\_лопатка\\base.png"
         },
         "8": {
+            "name": "меч",
             "base": "ROOT\\RIGHT_HAND\\_меч\\base.png"
         },
         "9": {
+            "name": "микрофон",
             "base": "ROOT\\RIGHT_HAND\\_микрофон\\base.png"
         },
         "10": {
+            "name": "нож",
             "base": "ROOT\\RIGHT_HAND\\_нож\\base.png"
         },
         "11": {
+            "name": "ноут",
             "base": "ROOT\\RIGHT_HAND\\_ноут\\base.png"
         },
         "12": {
+            "name": "О_О_ морковка",
             "base": "ROOT\\RIGHT_HAND\\_О_О_ морковка\\base.png"
         },
         "13": {
+            "name": "отвертка",
             "base": "ROOT\\RIGHT_HAND\\_отвертка\\base.png"
         },
         "14": {
+            "name": "палочка-светяшка",
             "1": "ROOT\\RIGHT_HAND\\_палочка-светяшка\\1.png",
             "base": "ROOT\\RIGHT_HAND\\_палочка-светяшка\\base.png",
             "stroke": "ROOT\\RIGHT_HAND\\_палочка-светяшка\\stroke.png"
         },
         "15": {
+            "name": "посох",
             "base": "ROOT\\RIGHT_HAND\\_посох\\base.png"
         },
         "16": {
+            "name": "телефон",
             "base": "ROOT\\RIGHT_HAND\\_телефон\\base.png",
             "stroke": "ROOT\\RIGHT_HAND\\_телефон\\stroke.png"
         },
         "17": {
+            "name": "типа чертежи хз",
             "base": "ROOT\\RIGHT_HAND\\_типа чертежи хз\\base.png"
         },
         "18": {
+            "name": "топор",
             "base": "ROOT\\RIGHT_HAND\\_топор\\base.png"
         }
     },
     "TOPS": {
         "1": {
+            "name": "блузка",
             "base": "ROOT\\TOPS\\_блузка\\base.png",
             "stroke": "ROOT\\TOPS\\_блузка\\stroke.png"
         },
         "2": {
+            "name": "клоунская кофта",
             "base": "ROOT\\TOPS\\_клоунская кофта\\base.png"
         },
         "3": {
+            "name": "новогодняя кофта",
             "base": "ROOT\\TOPS\\_новогодняя кофта\\base.png"
         },
         "4": {
+            "name": "офисная рубашка",
             "base": "ROOT\\TOPS\\_офисная рубашка\\base.png",
             "stroke": "ROOT\\TOPS\\_офисная рубашка\\stroke.png"
         },
         "5": {
+            "name": "пиратская кофта",
             "1": "ROOT\\TOPS\\_пиратская кофта\\1.png",
             "2": "ROOT\\TOPS\\_пиратская кофта\\2.png",
             "3": "ROOT\\TOPS\\_пиратская кофта\\3.png",
@@ -544,36 +703,43 @@
             "stroke": "ROOT\\TOPS\\_пиратская кофта\\stroke.png"
         },
         "6": {
+            "name": "рубашка раскрытая",
             "1": "ROOT\\TOPS\\_рубашка раскрытая\\1.png",
             "base": "ROOT\\TOPS\\_рубашка раскрытая\\base.png",
             "stroke": "ROOT\\TOPS\\_рубашка раскрытая\\stroke.png"
         },
         "7": {
+            "name": "свитер",
             "1": "ROOT\\TOPS\\_свитер\\1.png",
             "2": "ROOT\\TOPS\\_свитер\\2.png",
             "base": "ROOT\\TOPS\\_свитер\\base.png",
             "stroke": "ROOT\\TOPS\\_свитер\\stroke.png"
         },
         "8": {
+            "name": "свитшот с рубашкой",
             "1": "ROOT\\TOPS\\_свитшот с рубашкой\\1.png",
             "base": "ROOT\\TOPS\\_свитшот с рубашкой\\base.png",
             "stroke": "ROOT\\TOPS\\_свитшот с рубашкой\\stroke.png"
         },
         "9": {
+            "name": "толстовка",
             "base": "ROOT\\TOPS\\_толстовка\\base.png",
             "stroke": "ROOT\\TOPS\\_толстовка\\stroke.png"
         },
         "10": {
+            "name": "футболка",
             "1": "ROOT\\TOPS\\_футболка\\1.png",
             "base": "ROOT\\TOPS\\_футболка\\base.png",
             "stroke": "ROOT\\TOPS\\_футболка\\stroke.png"
         },
         "11": {
+            "name": "футболка с рукавами",
             "1": "ROOT\\TOPS\\_футболка с рукавами\\1.png",
             "base": "ROOT\\TOPS\\_футболка с рукавами\\base.png",
             "stroke": "ROOT\\TOPS\\_футболка с рукавами\\stroke.png"
         },
         "12": {
+            "name": "халат",
             "1": "ROOT\\TOPS\\_халат\\1.png",
             "2": "ROOT\\TOPS\\_халат\\2.png",
             "base": "ROOT\\TOPS\\_халат\\base.png",
@@ -583,26 +749,32 @@
     "_проверка под аватарку_.png": "ROOT\\_проверка под аватарку_.png",
     "ФОНЫ": {
         "1": {
+            "name": "крестики",
             "крестики": "ROOT\\ФОНЫ\\_крестики\\крестики.png",
             "цвет фона": "ROOT\\ФОНЫ\\_крестики\\цвет фона.png"
         },
         "2": {
+            "name": "лапки",
             "лампки": "ROOT\\ФОНЫ\\_лапки\\лампки.png",
             "цвет фона": "ROOT\\ФОНЫ\\_лапки\\цвет фона.png"
         },
         "3": {
+            "name": "полоски",
             "цвет 1": "ROOT\\ФОНЫ\\_полоски\\цвет 1.png",
             "цвет 2": "ROOT\\ФОНЫ\\_полоски\\цвет 2.png"
         },
         "4": {
+            "name": "сердечки",
             "сердечки": "ROOT\\ФОНЫ\\_сердечки\\сердечки.png",
             "цвет фона": "ROOT\\ФОНЫ\\_сердечки\\цвет фона.png"
         },
         "5": {
+            "name": "студия",
             "студия": "ROOT\\ФОНЫ\\_студия\\студия.png",
             "цвет - студия": "ROOT\\ФОНЫ\\_студия\\цвет - студия.png"
         },
         "6": {
+            "name": "ФОН ПРОСТО ЦВЕТ",
             "base": "ROOT\\ФОНЫ\\_ФОН ПРОСТО ЦВЕТ\\base.png"
         }
     },

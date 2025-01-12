@@ -7,6 +7,7 @@ rootDir = 'ROOT'
 
 def getNode(directory):
     node = {}
+    node['name'] = os.path.basename(directory)[1:]
     dlist = os.listdir(directory)
     for d in dlist:
         if os.path.isfile(os.path.join(directory, d)):
